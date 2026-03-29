@@ -1,6 +1,6 @@
-# 🚀 Space Invaders Game 🎮
+# 🚀 spcinv Game 🎮
 
-Welcome to your own Space Invaders game! 🌌
+Welcome to your own spcinv game! 🌌
 
 ## 🎯 Game Features
 
